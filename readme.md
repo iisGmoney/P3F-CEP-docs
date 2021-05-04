@@ -4,7 +4,7 @@
 
 **P3F Community Enhancement Pack (P3F CEP)** is an all-in-one collection of tools and mods for the 2008 North American PS2 release of Persona 3 FES.
 
-### [Installation Instructions](docs/02_getting_started.md) // [Upgrade Instructions](docs/upgrade.md)
+### [Installation Instructions](docs/02_getting_started.md)
 ### [Extras](docs/extras.md) // [Troubleshooting](docs/troubleshooting.md) // [FAQ](docs/faq.md) // [Credits](credits.md)
 
 ---
