@@ -29,6 +29,7 @@
 - **Shop Everywhere at Night**
 
 ### [Tupelov](https://gamebanana.com/members/1739633)
+- **Render Velvet Room Background**
 - **All Arcade Machines Always**
 - HQ Music
 
