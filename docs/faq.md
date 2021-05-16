@@ -60,7 +60,7 @@ For now, P3F CEP will not include instructions on widescreen support beyond addi
 - The patch is not 100% bug-free and weird stuff can happen with it enabled.
 - Aemulus does not support PNACH files, so there is no way to automatically install/uninstall the patch.
 
-There's nothing in P3F CEP that is strictly incompatible with the patch, so you can drop the PNACH in your `.PCSX2\cheats` folder if you like.
+There's nothing in P3F CEP that is strictly incompatible with the patch, so you can drop [this PNACH](94A82AAA_DirectCommands.pnach) in your `.PCSX2\cheats` folder if you really want to use it.
 
 ---
 
