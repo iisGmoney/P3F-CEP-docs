@@ -97,6 +97,7 @@ If you’re in the United States, you can buy P3F off of Amazon brand-new for ab
 P3F CEP Team do not endorse and cannot help you with the very cool crime of piracy.
 
 We also can't provide support if you use an altered disc image and it doesn't work (this includes ISOs with "undub" patches applied).
+- The undub mod is available as an [Aemulus package](https://gamebanana.com/mods/292547).
 
 ---
 
